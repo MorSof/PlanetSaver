@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Planet Saver</string>
+    <string name="new_game">New Game</string>
+    <string name="exit">Exit</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="restart">Restart</string>
+    <string name="score">Score:0</string>
+    <string name="resume">Resume</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_difficulty">Difficulty</string>
+    <string name="easy">easy</string>
+    <string name="hard">hard</string>
+    <string name="expert">expert</string>
+    <string name="high_score">High Score</string>
+    <string name="title_activity_high_score_screen">HighScoreScreen</string>
+    <string name="free_dive">free dive</string>
+    <string name="title_activity_background_sound_service">BackgroundSoundService</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="music_off">Music Off</string>
+    <string name="free_dive_mode">Free Dive Mode</string>
+    <string name="vibration_on">Vibration On</string>
+    <string name="newgame">New Game</string>
+</resources>
